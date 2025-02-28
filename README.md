@@ -1,4 +1,4 @@
-Automatic Depression Detection Using an Interpretable Audio-Textual Multi-modal Transformer-based Model
+# <mark>Automatic Depression Detection Using an Interpretable Audio-Textual Multi-modal Transformer-based Model</mark>
 
 This repository contains the code and resources for our multi-modal Transformer-based framework that detects depression from audio and text modalities. Our approach leverages the self-attention mechanism to improve diagnostic accuracy and provide interpretability by identifying the features (tokens in text or acoustic cues in audio) that contribute most strongly to the model’s predictions.
 
@@ -135,6 +135,7 @@ Head1_Attn   0.0  0.1    0.1   ...  0.8
 --------------------------------------------------------------------------------
 
 9. CONTRIBUTORS
+
 - Om Jodhpurkar
   jodhpurk@usc.edu
 
